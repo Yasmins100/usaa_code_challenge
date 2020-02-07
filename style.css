@@ -1,0 +1,56 @@
+body {
+
+   position: relative;
+     left: 30px;
+     font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.usaa-header_bg--recycle {
+  background-image: url("recycle-back.png");
+  height: 400px;
+  background-color: #4370b4;
+  background-repeat: no-repeat;
+  background-position: 20px 0;
+}
+
+.usaa-pledge_count {
+    size: 5rem;
+    color: #5bfea8;
+    font-weight: 600;
+}
+
+.usaa-footer {
+    background-color: #fffeff;
+}
+
+.usaa-slogan{ 
+   padding-top: 125px;
+  text-align: center;
+   font-family: verdana;
+   font-size: 70px;
+}
+
+.usaa-hr-solid {
+  border-top: 3px solid #bbb;
+}
+.usaa-input{
+    type="text"
+    border: 1px solid #FFFFFF;
+    font-size: 16px;
+    padding: 5px;width: 200px;
+
+.h1{
+   text-align: center;
+   font-family: verdana;
+   font-size: 20px;
+   
+   }
+.usaa-logo{
+  image: url("logo.jpg");
+}
+
+.usaa-faq{
+   color: LightGray;
+}
